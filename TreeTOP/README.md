@@ -1,6 +1,6 @@
 # TreeTOP
 
-TreeTOP was Robert McArthur's honours thesis.
+TreeTOP was Robert McArthur's honours thesis, completed under the supervision of Prof. Gavin Huttley, Dr. Yu Lin, and Dr. Ahad N. Zehmakan.
 
 The honours thesis presents three new algorithms in the field of phylogenetic reconstruction. It should be readable from a non-computational biology background.
 
