@@ -20,7 +20,7 @@ Robert McArthur was awarded best talk at Phylomania 2023 for this work!
 
 It will soon be published as a package on PyPI. Stay tuned!
 
-## TreeTOP
+## TreeTOP Algorithm
 
 TreeTOP is a new divide-and-conquer algorithm for resolving large rooted phylogenetic trees from DNA sequences of a set of organisms. It combines the previous two algorithms with DCM3 [2] to do this. This will be published in the first half of 2024!
 
