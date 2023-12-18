@@ -18,7 +18,7 @@ Robert McArthur is currently working as a research assistant for Prof. Gavin Hut
 
 ### CEGARBox
 
-CEGARBox is a state-of-the-art theorem prover for modal logic. In this work, Robert McArthur (under the supervision of Prof. Rajeev Goré) extended the theorem prover to handle all 15 normal modal logics, as well as multi-modal logic and tense logic.
+CEGARBox is a state-of-the-art theorem prover for modal logic. In this work, Robert McArthur, under the supervision of Prof. Rajeev Goré, extended the theorem prover to handle all 15 normal modal logics, as well as multi-modal logic and tense logic.
 
 Further extensions by Prof. Rajeev Goré and others are underway prior to publication.
 
